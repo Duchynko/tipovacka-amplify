@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tipovacka2-dev-172756-authRole",
+      "UnauthRoleArn": "arn:aws:iam::284748096573:role/amplify-tipovacka2-dev-172756-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::284748096573:role/amplify-tipovacka2-dev-172756-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-tipovacka2-dev-172756-deployment",
+      "UnauthRoleName": "amplify-tipovacka2-dev-172756-unauthRole",
+      "StackName": "amplify-tipovacka2-dev-172756",
+      "StackId": "arn:aws:cloudformation:eu-west-1:284748096573:stack/amplify-tipovacka2-dev-172756/09581430-204d-11eb-9d15-06dee405464c",
+      "AmplifyAppId": "d25uftl4nduii7"
+    }
+  }
+}
